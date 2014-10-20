@@ -1,0 +1,5 @@
+Figures.key
+Figures/*
+*~
+*.pyc
+.ipynb_checkpoints/*
